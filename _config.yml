@@ -6,7 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently working as a working student @ KPMG Germany, Consulting.
   Enjoy finding solutions to problems 
   <br><br>
-  <a href="https://www.linkedin.com/in/mykytazharov/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mykytazharov/">View My LinkedIn Profile</a>
+  <a href="https://www.mykytazharov.github.io/CV">View My CV</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-161203966-1 # your Google Analytics tracking ID here
