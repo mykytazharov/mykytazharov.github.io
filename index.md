@@ -23,7 +23,8 @@
 
 - [Next word prediction R Shiny App](https://mykytazharov.shinyapps.io/SmartKeyBoardApp/), based on the n-gram model using the stupid backoff algorithm. 
 
-- [R Shiny App](https://mykytazharov.shinyapps.io/KMeansVisualisation/) for solving clustering problem for iris data set using different algorithms.
+- [R Shiny App](https://mykytazharov.shinyapps.io/KMeansVisualisation/), for solving clustering problem for iris data set using different algorithms.
+
 ---
 
 
