@@ -4,9 +4,9 @@
 
 ### Research
 
-- An Empirical Comparison of Multiple Imputation Methods for Categorical Data (seminar paper at RWTH Aachen University)
+- An Empirical Comparison of Multiple Imputation Methods for Categorical Data (seminar thesis at RWTH Aachen University)
 
-- Regularized K-means clustering and its asymptotic consistency (seminar paper at RWTH Aachen University)
+- Regularized K-means clustering and its asymptotic consistency (seminar thesis at RWTH Aachen University)
 
 - Convergence of the kernel density estimator for random bandwidth. (bachelor thesis at RWTH Aachen University)
 
