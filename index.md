@@ -4,6 +4,8 @@
 
 ### Research
 
+- Generalized Additive Models for Location, Shape and Scale (GAMLSS) for High-Dimensional Data (master thesis at RWTH Aachen University--currently in progress)
+
 - An Empirical Comparison of Multiple Imputation Methods for Categorical Data (seminar thesis at RWTH Aachen University)
 
 - Regularized K-means clustering and its asymptotic consistency (seminar thesis at RWTH Aachen University)
